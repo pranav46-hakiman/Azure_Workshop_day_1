@@ -1,0 +1,19 @@
+Day 1| Session 2 
+Task 2: To create a virtual Machine in Azure
+
+Steps to create a Virtual machine is given below:
+
+Step 1: Navigate to Virtual Machines in menu bar [Located in top left corner of home] (or) you can search Virtual machines in Search bar.
+Step 2: Select Azure Virtual Machine.
+Step 3: Enter the following details:
+      -> Resource Group: you can create a new one or select the existing one.   [ your choice ]
+      -> Virtual Machine name
+      -> Region
+      -> Image
+      -> Size
+      -> In administrator account : enter Username, password and Confirm Password.
+Step 4: Move on to Disk and select Standard SSD.
+Step 5: Leave Others as it is.
+Step 6: Click on "REVIEW + CREATE".
+Step 7: once reviewed, click on "CREATE" to create the Virtual Machine.
+Step 8: Once deployment is complete, you can click on go to resource to view the Virtual Machine.
